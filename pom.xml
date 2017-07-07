@@ -4,7 +4,7 @@
 
 	<groupId>com.foo</groupId>
 	<artifactId>demo</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>demo</name>
@@ -39,7 +39,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:waterman1009/testDeploy.git</connection>
 		<developerConnection>scm:git:git@github.com:waterman1009/testDeploy.git</developerConnection>
-	  <tag>demo-0.0.1-RELEASE</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<build>
